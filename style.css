@@ -17,4 +17,46 @@ img{
 details{
     text-align: center;
 }
+.herat:hover{
+    box-shadow: 4px 6px 4px 6px rgb(202, 162, 162);
+}
+.kidney:hover{
+    box-shadow: 4px 6px 4px 6px rgb(202, 162, 162);
+}
+.liver:hover{
+    box-shadow: 4px 6px 4px 6px rgb(202, 162, 162);
 
+}
+.lungs:hover{
+    box-shadow: 4px 6px 4px 6px rgb(202, 162, 162);
+}
+.pancreas:hover{
+    box-shadow: 4px 6px 4px 6px rgb(202, 162, 162);
+}
+.intestines:hover{
+    box-shadow: 4px 6px 4px 6px rgb(202, 162, 162);
+}
+.eyes:hover{
+    box-shadow: 4px 6px 4px 6px rgb(202, 162, 162);
+}
+.herat{
+    border: 6px solid rgb(248, 170, 170);
+}
+.kidney{
+    border: 6px solid rgb(248, 170, 170);
+}
+.liver{
+    border: 6px solid rgb(248, 170, 170);
+}
+.lungs{
+    border: 6px solid rgb(248, 170, 170);
+}
+.pancreas{
+    border: 6px solid rgb(248, 170, 170);
+}
+.intestines{
+    border: 6px solid rgb(248, 170, 170);
+}
+.eyes{
+    border: 6px solid rgb(248, 170, 170);
+}
