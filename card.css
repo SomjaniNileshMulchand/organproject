@@ -1,0 +1,27 @@
+*{
+    margin: 2px;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: antiquewhite;
+    margin-right: 15rem;
+}
+details{
+    text-align: center;
+}
+.card-img-top:hover{
+    box-shadow: 4px 6px 4px 6px royalblue;
+}
+.card-img-top{
+    border: 4px solid rosybrown;
+}
+.card-body:hover{
+    box-shadow:  6px 4px 6px rgb(112, 112, 235)
+}
+.card-body{
+    background-color: aquamarine;
+}
+.card-text{
+    background-color: beige;
+}
